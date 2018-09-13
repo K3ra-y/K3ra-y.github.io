@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to my blog!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This blog will be about the pictures I took from various places.
+If you like wildlife, wildflowers, nature and ancient history keep following.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Lake Titicaca is highest navigable lake in the world. It is located on the border of Peru and Bolivia. This lake is home to many *Uru people*. They make artificial islands using reeds, and families occupy these islands. *Uru*'s main economy is depends on fishing and tourism. The fish the catch is actually rainbow trout from Canada, introduced in 1930s.  
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+(https://raw.githubusercontent.com/K3ra-y/K3ra-y.github.io/master/images/_DSC0145.JPG)
